@@ -1,0 +1,8 @@
+
+The model was writen in python (v. 3.10)
+
+To initilize the model, simply run Main.py file.
+
+Carbon cost parameters can be found in CCostParameters.py
+
+Parameters such as leaf resorption effiency or the beta, can be found in DataPrep.py
